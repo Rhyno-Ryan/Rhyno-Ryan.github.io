@@ -3,4 +3,4 @@
   author: "Ryan Her."
 ---
 
-# Hello world
+# Hello world. Wait this is hype.
