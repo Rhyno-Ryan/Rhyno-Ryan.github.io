@@ -8,19 +8,20 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      
+      - uses: actions/checkout@v4
+
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-      
+        with:
+          quarto-version: latest
+
       - name: Render Quarto project
-        run: quarto render
-      
+        run: quarto render index.qmd
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
           path: '.'
-      
+
       - name: Deploy to GitHub Pages
-        id: deployment
         uses: actions/deploy-pages@v2
