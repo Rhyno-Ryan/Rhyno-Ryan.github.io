@@ -7,9 +7,4 @@ project:
 format:
   html:
     theme: zephyr
-output-dir: _siteformat:
-  html: 
-    theme: zephyr
-project:
-  type: website
-  output-dir: _site
+output-dir: _site:
