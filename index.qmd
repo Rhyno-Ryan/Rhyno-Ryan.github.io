@@ -1,8 +1,11 @@
 ---
-  title: "Testing"
-  author: "Ryan Her 5."
+  title: "Ryan's Project website"
+  author: "Ryan Her."
 ---
 
-# Hello world. Wait this is hype.
+# Welcome to my website!
 
-Eeny, Meenie, Minie, Moe
+## Projects
+- [SAVI](SAVI.qmd)
+
+## Resume, CV, and Contact Information
