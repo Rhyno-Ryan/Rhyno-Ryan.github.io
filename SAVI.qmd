@@ -1,0 +1,9 @@
+---
+title: Statisical Analysis, Visualization & Inference (SAVI) Workshops
+--- 
+
+savi means rain in Mixteco, or Tu’un Sávi ("language of the rain"). Mixteco is one of the most widely spoken indigenous languages in Mexico, primarily in the state of Oaxaca, as well as in Guerrero, Puebla, and among migrant communities in the U.S.
+
+- Workshop 1 : Intro into Data
+- Workshop 2 : Statisical Analysis
+- Workshop 3 : Linear Regression and Modeling 
