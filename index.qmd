@@ -1,9 +1,9 @@
 ---
   title: "Testing"
-  author: "Ryan Her."
+  author: "Ryan Her 2."
 ---
 
 # Hello world. Wait this is hype.
 
 
-This is a test of the new R Markdown format, Quarto. I am very excited to use this for my future projects. It seems to have a lot of great features and I can't wait to explore them all.
+Mary had a little lamb, its fleece was white as snow. And everywhere that Mary went, the lamb was sure to go.
