@@ -1,8 +1,8 @@
+files:
+  - index.qmd
+  - SAVI.qmd
 project:
   type: website
-  files:
-    - index.qmd
-    - SAVI.qmd
 
 format:
   html:
