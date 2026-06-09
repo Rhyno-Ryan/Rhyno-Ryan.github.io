@@ -1,7 +1,15 @@
+project:
+  type: website
+  files:
+    - index.qmd
+    - SAVI.qmd
+
 format:
+  html:
+    theme: zephyr
+output-dir: _siteformat:
   html: 
     theme: zephyr
-
 project:
   type: website
   output-dir: _site
