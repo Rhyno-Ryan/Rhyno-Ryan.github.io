@@ -22,12 +22,12 @@ jobs:
           version: release
 
       - name: Render Quarto project
-        run: quarto render index.qmd
+        run: quarto render . --output-dir _site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
-          path: '.'
+          path: '_site'
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v5
