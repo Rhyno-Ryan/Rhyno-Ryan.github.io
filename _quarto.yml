@@ -1,10 +1,24 @@
-files:
-  - index.qmd
-  - SAVI.qmd
-project:
-  type: website
-
 format:
-  html:
+  html: 
     theme: zephyr
-output-dir: _site
+
+project:
+  type: book
+
+book:
+  title: "Statisical Analysis, Visualization & Inference (SAVI) Workshops, with Python"
+  author: "Ryan Her"
+  sidebar:
+    logo: "SAVIsticker.png"
+  favicon: "SAVIsticker.png"
+  chapters:
+    - index.qmd
+    - preface.qmd
+    - part: WS_1.ipynb
+    - part: WS_2.ipynb
+    - part: WS_3.ipynb  
+execute:
+  echo: true
+
+launch:
+  colab: true
