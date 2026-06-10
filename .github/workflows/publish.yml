@@ -22,7 +22,7 @@ jobs:
           version: release
 
       - name: Render Quarto project
-        run: quarto render . --output-dir _site
+        run: quarto render . 
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
