@@ -12,7 +12,7 @@ book:
     logo: "SAVIsticker.png"
   favicon: "SAVIsticker.png"
   chapters:
-    - part: "Preface"
+    - part: "Home Page / Preface"
       chapters:
       - index.qmd
       - preface.qmd
