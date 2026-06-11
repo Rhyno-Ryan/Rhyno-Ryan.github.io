@@ -1,11 +1,14 @@
 ---
-  title: "Ryan's Project website"
+  title: "Statisical Analysis, Visualization & Inference (SAVI) Workshops"
   author: "Ryan Her."
 ---
 
-# Welcome to my website!
 
-## Projects
-- [SAVI](SAVI.qmd)
+##Table of Contents 
+- [Preface](preface.qmd)
+  - [Workshop 1: Introduction to Data and Data Visualization](WS_1.qmd)
+  - [Workshop 2: Introduction to Statistical Inference](WS_2.qmd)
+  - [Workshop 3: Introduction to linear regression Analysis](WS_3.qmd)
 
-## Resume, CV, and Contact Information
+
+

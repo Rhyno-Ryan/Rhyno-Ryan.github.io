@@ -14,9 +14,11 @@ book:
   chapters:
     - index.qmd
     - preface.qmd
-    - part: WS_1.ipynb
-    - part: WS_2.ipynb
-    - part: WS_3.ipynb  
+    - part: SAVI.qmd 
+      chapters: 
+      - WS_1.ipynb
+      - WS_2.ipynb
+      - WS_3.ipynb  
 execute:
   echo: true
 
