@@ -12,8 +12,10 @@ book:
     logo: "SAVIsticker.png"
   favicon: "SAVIsticker.png"
   chapters:
-    - index.qmd
-    - preface.qmd
+    - part: "Preface"
+      chapters:
+      - index.qmd
+      - preface.qmd
     - part: "Workshops"
       chapters: 
       - WS_1.ipynb
