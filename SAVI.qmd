@@ -1,7 +1,0 @@
----
-title: Statisical Analysis, Visualization & Inference (SAVI) Workshops 
---- 
-
-Temp Page for SAVI Workshops.
-
-
