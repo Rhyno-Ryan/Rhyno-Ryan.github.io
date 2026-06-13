@@ -16,7 +16,7 @@ book:
       chapters:
       - index.qmd
       - preface.qmd
-    - part: "Workshops"
+    - part: "Data Workshops"
       chapters: 
       - WS_1.ipynb
       - WS_2.ipynb
