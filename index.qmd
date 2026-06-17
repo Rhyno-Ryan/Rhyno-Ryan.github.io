@@ -6,7 +6,7 @@
 
 ## Table of Contents 
 
-- [Preface](preface.qmd)
+- [Preface](Preface.ipynb)
   - [Introduction to Data and Data Visualization](WS_1.ipynb)
   - [Introduction to Statistical Inference](WS_2.ipynb)
   - [Introduction to linear regression Analysis](WS_3.ipynb)
