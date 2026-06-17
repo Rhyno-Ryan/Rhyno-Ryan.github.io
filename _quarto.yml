@@ -15,7 +15,7 @@ book:
     - part: "Home Page / Preface"
       chapters:
       - index.qmd
-      - preface.qmd
+      - Preface.ipynb
     - part: "Data Workshops"
       chapters: 
       - WS_1.ipynb
