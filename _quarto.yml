@@ -9,8 +9,8 @@ book:
   title: "Statisical Analysis, Visualization & Inference (SAVI) Workshops, with Python"
   author: "Ryan Her"
   sidebar:
-    logo: "SAVIsticker.png"
-  favicon: "SAVIsticker.png"
+    logo: "SAVI_Logo.png"
+  favicon: "SAVI_Logo.png"
   chapters:
     - part: "Home Page / Preface"
       chapters:
