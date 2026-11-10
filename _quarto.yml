@@ -8,6 +8,7 @@ project:
 book:
   title: "Statisical Analysis, Visualization & Inference (SAVI) Workshops, with Python"
   author: "Ryan Her"
+  site-url: "https://Rhyno-Ryan.github.io/SAVI/"
   sidebar:
     logo: "SAVI_Logo.png"
   favicon: "SAVI_Logo.png"
